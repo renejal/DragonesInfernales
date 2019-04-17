@@ -1,0 +1,3 @@
+nombre: Pedro Javier Arias Lasso
+cod: 104615020493
+frase: Lo que no te mata, te hace más fuerte (Friedrich Nietzsche)
